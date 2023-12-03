@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Приложение на React!
+          Приложение на React! Внес изменения...
         </a>
       </header>
     </div>
