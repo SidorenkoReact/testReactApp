@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Приложение на React! Внес изменения...
+          И ещё изменения...
         </a>
       </header>
     </div>
